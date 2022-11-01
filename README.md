@@ -9,10 +9,6 @@ This is the final project slidify presentation source code for the Developing Da
 
 # Links to Project App & Docs
 
-1. Shiny App: [Link](https://savitakohli.shinyapps.io/ShinyApp/)
-
-2. `server.R` and `ui.R` files: [Link](https://github.com/savitakohli/Developing-Data-Products-Final-Project/shiny-app)
-
-3. Slidify Pres: [Link](https://savitakohli.github.io/)
-For Slidify Presentation, pleasse click here https://savitakohli.github.io/
-
+README file : change - add these 2 lines
+## final course project - Aaryaman Awasthi
+## developing data products - week#4
