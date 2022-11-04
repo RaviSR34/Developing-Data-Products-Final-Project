@@ -1,6 +1,6 @@
 ---
 title: "Developing Data Products"
-author: "Savita Kohli"
+author: "Aaryaman Awasthi"
 date: "April 16, 2018"
 output: slidy_presentation
 highlighter: highlight.js
@@ -30,7 +30,7 @@ The goal of this assignment is to build:
 
 ## Links to Project App & Docs
 
-1. Shiny App: [Link](https://savitakohli.shinyapps.io/MultiOutcome_Shiny/)
+1. Shiny App: [Link](https://Ravi Shankar Rai.shinyapps.io/MultiOutcome_Shiny/)
 2. server.R` and `ui.R` files: [Link](https://github.com/savitakohli/Developing-Data-Products-Final-Project) 
 
 ---
